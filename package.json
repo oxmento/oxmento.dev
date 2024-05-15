@@ -1,7 +1,7 @@
 {
-  "name": "jameswalsh.dev",
+  "name": "fahmi.xyz",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "engines": {
     "node": ">=v18.17.1"
   },
